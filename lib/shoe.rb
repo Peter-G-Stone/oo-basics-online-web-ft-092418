@@ -1,1 +1,5 @@
-# Make your shoe class here!
+# shoe.rb 
+
+class Shoe 
+  attr_accessor :brand
+end 
